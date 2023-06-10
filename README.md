@@ -21,15 +21,20 @@ Add the following lines to specify the IP address, netmask, gateway, and DNS ser
 bash
 Copy code
 ```sh
-IPADDR=<your-ip-address>```
+IPADDR=<your-ip-address>
+ ```
 ```sh
-NETMASK=<your-netmask>```
+NETMASK=<your-netmask>
+ ```
 ```sh
-GATEWAY=<your-gateway>```
+GATEWAY=<your-gateway>
+ ```
 ```sh
- DNS1=<your-primary-dns>```
+ DNS1=<your-primary-dns>
+ ```
 ```sh
-  DNS2=<your-secondary-dns>```
+  DNS2=<your-secondary-dns>
+ ```
 Replace <your-ip-address>, <your-netmask>, <your-gateway>, <your-primary-dns>, and <your-secondary-dns> with your actual network configuration values.
 
 Save the changes and exit the editor.
